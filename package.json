@@ -1,0 +1,17 @@
+{
+  "name": "constyles",
+  "version": "1.0.9",
+  "description": "带有样式的console封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console",
+    "debug",
+    "style",
+    "constyles"
+  ],
+  "author": "dsx2016",
+  "license": "ISC"
+}
